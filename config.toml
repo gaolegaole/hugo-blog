@@ -1,0 +1,4 @@
+baseURL = 'https://gaolegaole.github.io/'
+languageCode = 'zh'
+title = 'My New Hugo Site'
+theme = "eureka"
