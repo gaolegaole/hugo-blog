@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Blog Use Github Pages and Hugo"
 date: 2021-11-03T11:29:28+08:00
-draft: true
+draft: false
 toc: true
 ---
 # 工作流
